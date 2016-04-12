@@ -1,0 +1,11 @@
+#
+#
+#
+
+$ews = New-Object [Microsoft.EWS.Outlook"
+
+$localhost = "."
+# Adjust the following values
+$user = "user@example.com"
+
+$folder = Auto-Discovery
